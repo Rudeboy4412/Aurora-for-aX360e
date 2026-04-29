@@ -1,1 +1,1 @@
-Currently, when I start the emulator, a black screen appears and it doesn't allow me to proceed. If anyone is interested in contributing to the project, they are welcome.
+This project is in beta phases; its purpose is to emulate the Xbox 360 homebrew game "Aurora," but this time using the mobile device emulator "aX360e."I hope more people can join the project since I'm still getting a black screen in the emulator, well that's a good thing

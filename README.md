@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>The banner merges Aurora’s identity with aX360e’s core branding.</em>
+  <em>From banner to logo, this design merges Aurora’s identity with aX360e’s core branding..</em>
 </p>
 
 <br>

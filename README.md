@@ -1,1 +1,2 @@
+            author:Rudeboy4412
 This project is in beta phases; its purpose is to emulate the Xbox 360 homebrew game "Aurora," but this time using the mobile device emulator "aX360e."I hope more people can join the project since I'm still getting a black screen in the emulator, well that's a good thing

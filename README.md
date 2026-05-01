@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rudeboy4412/Aurora-for-aX360e/main/file_00000000857471f585caaa69a18ed0e0.png" alt="Aurora Banner" width="800">
+</p>
+
+<p align="center">
+  <em>The logo merges Aurora’s identity with aX360e’s core branding.</em>
+</p>
+
+<br>
+
+
 # Aurora for aX360e #
 
 **Author:** Rudeboy4412 © 2026  

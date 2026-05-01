@@ -1,2 +1,17 @@
-            author:Rudeboy4412
-This project is in beta phases; its purpose is to emulate the Xbox 360 homebrew game "Aurora," but this time using the mobile device emulator "aX360e."I hope more people can join the project since I'm still getting a black screen in the emulator, well that's a good thing
+# Aurora for aX360e #
+
+**Author:** Rudeboy4412 © 2026  
+**License:** GPL-3.0  
+**Status:** Beta - Work in Progress 🚧
+
+## 🎯 ¿What is this?
+Project to port/run the Xbox 360 homebrew "Aurora" on Android using the **aX360e** emulator.
+
+## 🚧 Current State
+In beta. The project compiles but still produces a black screen when running in the emulator. We are looking for help debugging the renderer/graphics.
+
+## 🤝 ¿Do you want to help?
+If you know about C++, Android NDK, or Xbox 360 emulation, any PR or issue is welcome.
+
+## ⚖️ License
+This project is licensed under **GPL v3.0**. See the [LICENSE](LICENSE) file.
